@@ -1,0 +1,8 @@
+{
+  "BotSettings": {
+    "Token": "5694254616:AAH51R95gIUsv4I3rw-W1tkn_7WlCFXyZeM"
+  },
+  "ApiSettings": {
+    "PrivatBankApiUrl": "https://api.privatbank.ua/p24api/exchange_rates"
+  }
+}
