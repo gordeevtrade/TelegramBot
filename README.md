@@ -1,4 +1,5 @@
-# TelegramBot
+# Telegram-Bot-CurrencyExchange
+
 Exchange Currency
 
 (Net 6, Telegram  Library, Bank API, Localization) 
